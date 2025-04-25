@@ -1,0 +1,3 @@
+C:/Users/Domin/CLionProjects/KontrolinisDarbas4/cmake-build-debug/CMakeFiles/KontrolinisDarbas4.dir
+C:/Users/Domin/CLionProjects/KontrolinisDarbas4/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Domin/CLionProjects/KontrolinisDarbas4/cmake-build-debug/CMakeFiles/rebuild_cache.dir
